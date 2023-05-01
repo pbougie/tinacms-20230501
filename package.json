@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "scripts": {
+    "dev": "npx tinacms dev --command \"eleventy --serve\""
+  },
+  "dependencies": {
+    "@tinacms/cli": "^1.5.5",
+    "tinacms": "^1.4.5"
+  }
+}
